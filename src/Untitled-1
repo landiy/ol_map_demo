@@ -1,0 +1,25 @@
+function bindClick(id, cb) {
+  document.getElementById(id).addEventListener("click", cb);
+}
+
+function moveToAni(pos) {
+  view.animate({
+    center: pos
+  });
+}
+
+function addOverlay() {
+  const dom = document.getElementById("overlay");
+  if (!dom) return;
+  moveToAni(SZCenter);
+  window.myOl = new ol.Overlay({
+    element: dom,
+    position: SZCenter
+  });
+  map.addOverlay(myOl);
+  dom.style.display = "block";
+}
+
+function removeOverlay() {
+  myOl && map.removeOverlay(myOl); //直接去掉overlay里的dom，非常暴力和彻底
+}
