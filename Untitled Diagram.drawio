@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T07:29:08.665Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="sscwi58J3v2J-fs5HGyj" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-10T10:22:58.886Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="MsHMEVmpDsYptDf32Bnc" version="13.6.0" type="github">
   <diagram id="eiAgZ4NPhMDnj-uZ2YI9" name="Page-1">
-    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="70" width="300" height="560" as="geometry" />
         </mxCell>
         <mxCell id="exzSyw8KwICSEQk-Rghd-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="70" width="360" height="560" as="geometry" />
+          <mxGeometry x="420" y="60" width="360" height="560" as="geometry" />
         </mxCell>
         <mxCell id="exzSyw8KwICSEQk-Rghd-2" value="新建APP&lt;br&gt;(eg. shopee-finance-credit-id)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="150" width="195" height="50" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="160" y="90" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exzSyw8KwICSEQk-Rghd-26" value="mitra fe-publish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="330" width="120" height="20" as="geometry" />
+          <mxGeometry x="640" y="330" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="exzSyw8KwICSEQk-Rghd-28" value="mitra fe-createpackage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="240" width="150" height="20" as="geometry" />
@@ -78,9 +78,6 @@
         </mxCell>
         <mxCell id="exzSyw8KwICSEQk-Rghd-34" value="带离线包后缀产物" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="exzSyw8KwICSEQk-Rghd-36" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="320" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
